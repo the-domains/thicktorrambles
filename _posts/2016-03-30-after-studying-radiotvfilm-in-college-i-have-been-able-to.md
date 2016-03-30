@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: After studying Radio/TV/Film in College I have been able to get screen credit at least once a year. This keeps me up to date on new practices on productions.
-datePublished: '2016-03-30T15:15:03.852Z'
-dateModified: '2016-03-30T15:14:47.749Z'
+datePublished: '2016-03-30T15:15:47.874Z'
+dateModified: '2016-03-30T15:15:10.665Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-30-after-studying-radiotvfilm-in-college-i-have-been-able-to.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-after-studying-radiotvfilm-in-college-i-have-been-able-to.md
-published: true
 url: after-studying-radiotvfilm-in-college-i-have-been-able-to/index.html
 _type: Article
 
