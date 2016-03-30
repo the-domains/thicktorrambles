@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[thicktorrambles]]></title>
         <description><![CDATA[thicktorrambles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thicktorrambles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 15:15:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 15:15:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thicktorrambles/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/deb1e466-5621-4f8a-924b-26ef67138241.jpg">]]></description>
-            <link>undefinedafter-studying-radiotvfilm-in-college-i-have-been-able-to/index.html</link>
+            <link>https://thegrid.ai/thicktorrambles/after-studying-radiotvfilm-in-college-i-have-been-able-to/index.html</link>
             <guid isPermaLink="false">f7af6743-c869-467c-81b6-a41ffd3c0eac</guid>
-            <pubDate>Wed, 30 Mar 2016 15:15:03 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 15:15:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
